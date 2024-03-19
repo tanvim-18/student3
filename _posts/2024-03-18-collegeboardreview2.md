@@ -1,3 +1,13 @@
+---
+toc: true
+comments: true
+layout: post
+title: Review
+type: plans
+courses: { compsci: {week: 20, categories: [4.A]} }
+categories: [C1.4]
+---
+
 Question #7:
 
 ![Screenshot 2024-03-18 173602](https://github.com/tanvim-18/student3/assets/142523190/cfe48d4e-4c2f-412e-8c7c-2589ae96d5fd)
